@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gum">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GUm">
+        <activity
+            android:name=".ShowLinks"
+            android:exported="false" />
+        <activity
+            android:name=".test"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.subjectscs2y4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.subjectscs1y4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.subjectiss2y4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.subjectiss1y4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.A5eraais2y4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.A5erais1y4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.A5ers2y4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.A5ers1y4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.subjectscs2y3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.subjectscs1y3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.subjectiss2y3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.subjectiss1y3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.subjectais2y3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.subjectcais1y3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.subjectcss2y3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.subjectcss1y3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR2.subjects2y2"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR2.subjects1y2"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR1.subjects2y1"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR1.subjects1y1"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.Year4_sc"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.Year4_is"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.Year4_ai"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.Year4_cs"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.Year3_sc"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.Year3_is"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.Year3_ai"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.Year3_cs"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR4.Year4"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR3.Year3"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR2.Year2"
+            android:exported="false" />
+        <activity
+            android:name=".YEAR1.Year1"
+            android:exported="false" />
+        <activity
+            android:name=".Choose2"
+            android:exported="false" />
+        <activity
+            android:name=".LOGINORREGIST.Regist"
+            android:exported="false" />
+        <activity
+            android:name=".LOGINORREGIST.login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

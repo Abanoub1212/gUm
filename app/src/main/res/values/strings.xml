@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">gUm</string>
+
+    <string name="Login" translatable="false">Login</string>
+    <string name="registration" translatable="false">registration</string>
+    <string name="year1" translatable="false">Year1</string>
+    <string name="year3" translatable="false">Year3</string>
+    <string name="year4" translatable="false">Year4 </string>
+    <string name="s1" translatable="false">Semester_1</string>
+    <string name="s2" translatable="false">Semester_2</string>
+    <string name="year2" translatable="false">Year2</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="id" translatable="false">Id</string>
+    <string name="phone" translatable="false">Phone</string>
+    <string name="Male" translatable="false">Male</string>
+    <string name="Female" translatable="false">Female</string>
+    <string name="ComputerScience" translatable="false">Computer Science</string>
+    <string name="ArtificialIntelligence" translatable="false">Artificial Intelligence</string>
+    <string name="InformationSystem" translatable="false">Information System</string>
+    <string name="ScientificComputing" translatable="false">Scientific Computing</string>
+    <string name="noaccount" translatable="false">NO account yet? Create now</string>
+    <string name="cours" translatable="false">Course</string>
+    <string name="Book" translatable="false">Book</string>
+
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Choose2"
+    android:orientation="vertical"
+    android:background="@color/white"
+
+    >
+
+    <Button
+        android:background="@drawable/btn_semestar"
+        style="@style/custom_style1"
+        android:id="@+id/btn_1"
+        android:layout_marginTop="@dimen/_110sdp"
+        android:text="@string/year1"/>
+    <Button
+        android:background="@drawable/btn_semestar"
+        style="@style/custom_style1"
+        android:id="@+id/btn_2"
+
+        android:text="@string/year2"/>
+    <Button
+        android:background="@drawable/btn_semestar"
+        style="@style/custom_style1"
+        android:id="@+id/btn_3"
+        android:text="@string/year3"/>
+    <Button
+        android:background="@drawable/btn_semestar"
+        style="@style/custom_style1"
+        android:id="@+id/btn_4"
+        android:layout_marginBottom="@dimen/_110sdp"
+        android:text="@string/year4"/>
+
+
+</LinearLayout>

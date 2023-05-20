@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+
+    android:layout_height="match_parent"
+    tools:context=".YEAR4.Year4">
+    <Button
+        style="@style/custom_style1"
+        android:id="@+id/btn_CS4"
+        android:layout_marginTop="@dimen/_110sdp"
+        android:text="@string/ComputerScience"
+        android:background="@drawable/btn_semestar"
+        />
+    <Button
+        style="@style/custom_style1"
+        android:id="@+id/btn_AI4"
+        android:background="@drawable/btn_semestar"
+        android:text="@string/ArtificialIntelligence"/>
+    <Button
+        style="@style/custom_style1"
+        android:id="@+id/btn_IS4"
+        android:background="@drawable/btn_semestar"
+        android:text="@string/InformationSystem"/>
+    <Button
+
+        android:background="@drawable/btn_semestar"
+        style="@style/custom_style1"
+        android:id="@+id/btn_SC4"
+        android:layout_marginBottom="@dimen/_110sdp"
+        android:text="@string/ScientificComputing"/>
+</LinearLayout>

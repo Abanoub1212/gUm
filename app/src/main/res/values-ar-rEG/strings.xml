@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">gUm</string>
+    <string name="Login" translatable="false">تسجيل دخول</string>
+    <string name="registration" translatable="false">تسجيل</string>
+    <string name="year1" translatable="false">فرقه اولي</string>
+    <string name="year3" translatable="false">فرقه تالته</string>
+    <string name="year4" translatable="false">فرقه رابعه</string>
+    <string name="s1" translatable="false">الترم الاول</string>
+    <string name="s2" translatable="false">الترم الثاني</string>
+    <string name="year2" translatable="false">فرقه تانيه</string>
+    <string name="email" translatable="false">ايميل</string>
+    <string name="name" translatable="false">الاسم</string>
+    <string name="password" translatable="false">الرقم السرى</string>
+    <string name="id" translatable="false">الرقم القومى</string>
+    <string name="phone" translatable="false">رقم الهاتف</string>
+    <string name="Male" translatable="false">ذكر</string>
+    <string name="Female" translatable="false">انثى</string>
+    <string name="ComputerScience" translatable="false">علوم حاسب</string>
+    <string name="ArtificialIntelligence" translatable="false">الذكاء الاصطناعي</string>
+    <string name="InformationSystem" translatable="false">نظم معلومات</string>
+    <string name="ScientificComputing" translatable="false">الحوسبه المعلوماتيه</string>
+    <string name="noaccount" translatable="false">  ليس  لديك حساب سجل الان </string>
+    <string name="cours" translatable="false">لينك</string>
+    <string name="Book" translatable="false">كتاب</string>
+
+</resources>

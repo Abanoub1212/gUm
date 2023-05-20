@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".YEAR4.Year4_sc">
+    <Button
+        style="@style/custom_style1"
+        android:id="@+id/y4scs1"
+        android:layout_marginTop="@dimen/_200sdp"
+        android:text="@string/s1"
+        android:background="@drawable/btn_semestar"
+
+        />
+    <Button
+        style="@style/custom_style1"
+        android:id="@+id/y4scs2"
+        android:background="@drawable/btn_semestar"
+        android:layout_marginBottom="@dimen/_200sdp"
+        android:text="@string/s2"/>
+</LinearLayout>

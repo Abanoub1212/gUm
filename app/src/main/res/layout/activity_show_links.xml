@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ShowLinks">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/txt_link"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/mov1"
+        >
+        <Button
+            android:id="@+id/btn_course"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cours"
+            android:background="@drawable/btn_semestar"
+            android:layout_margin="20dp"
+            android:layout_marginBottom="10dp"
+            android:padding="20dp"
+            android:textSize="20sp"
+            android:textColor="@color/mov1"
+            />
+        <Button
+            android:id="@+id/btn_book"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Book"
+            android:background="@drawable/btn_semestar"
+            android:layout_margin="20dp"
+            android:textSize="20sp"
+            android:padding="20dp"
+
+            android:textColor="@color/mov1"
+            />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

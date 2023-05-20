@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LOGINORREGIST.login"
+    android:orientation="vertical"
+    >
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="@dimen/_230sdp"
+        android:layout_height="@dimen/_190sdp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/_18sdp"
+        android:padding="@dimen/_10sdp"
+        android:src="@drawable/login"
+
+        />
+    <EditText
+        android:id="@+id/emailL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_33sdp"
+        android:hint="@string/email"
+        android:textAllCaps="false"
+        android:textColorHint="@color/mov1"
+        android:padding="@dimen/_10sdp"
+        android:textColor="@color/mov1"
+        android:textColorHighlight="@color/mov1"
+        android:background="@drawable/edit_style"
+        android:inputType="textEmailAddress"
+        android:layout_marginLeft="@dimen/_15sdp"
+        android:layout_marginRight="@dimen/_15sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:hint="@string/password"
+        android:background="@drawable/edit_style"
+        android:textAllCaps="false"
+        android:textColorHint="@color/mov1"
+        android:padding="@dimen/_10sdp"
+        android:textColorHighlight="@color/mov1"
+        android:inputType="textPassword"
+        android:layout_marginLeft="@dimen/_15sdp"
+        android:textColor="@color/mov1"
+        android:layout_marginRight="@dimen/_15sdp"/>
+
+    <Button
+        android:id="@+id/button_login"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/btn_style"
+        android:text="@string/Login"
+        android:textSize="@dimen/_20ssp"
+        android:padding="@dimen/_10sdp"
+        android:textAllCaps="false"
+        android:textColor="@color/mov1"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_55sdp"
+        android:layout_marginBottom="@dimen/_30sdp"
+
+        />
+    <TextView
+        android:id="@+id/Rtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/noaccount"
+
+        />
+
+</LinearLayout>
