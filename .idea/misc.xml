@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Taha CompuTech/Desktop/gUm zips/gUm/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Taha CompuTech/Desktop/gUm zips/gUm/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Taha CompuTech/Desktop/gUm zips/gUm/app/src/main/res/layout/activity_show_links.xml" value="0.25" />
+        <entry key="..\:/Users/Taha CompuTech/Desktop/gUm zips/gUm/app/src/main/res/layout/activity_subjectais1y3.xml" value="0.25" />
+        <entry key="..\:/Users/Taha CompuTech/Desktop/gUm zips/gUm/app/src/main/res/layout/activity_subjectcss1y3.xml" value="0.25" />
+        <entry key="..\:/Users/Taha CompuTech/Desktop/gUm zips/gUm/app/src/main/res/layout/activity_subjects2y1.xml" value="0.25" />
+        <entry key="..\:/Users/Taha CompuTech/Desktop/gUm zips/gUm/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/drawable/btn_semestar.xml" value="0.187" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_choose2.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_regist.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_show_links.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_subjectais1y3.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year1.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year2.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year3.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year3_ai.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year3_cs.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year3_is.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year3_sc.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year4.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year4_ai.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year4_cs.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year4_is.xml" value="0.25416666666666665" />
+        <entry key="..\:/nwe/gUm/app/src/main/res/layout/activity_year4_sc.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
